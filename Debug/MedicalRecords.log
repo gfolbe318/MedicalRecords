@@ -1,0 +1,6 @@
+﻿  Patient.cpp
+c:\users\garrett\desktop\visual studio projects\medicalrecords\medicalrecords\patient.cpp(43): warning C4018: '<': signed/unsigned mismatch
+  Doses.cpp
+  Generating Code...
+  MedicalRecords.vcxproj -> C:\Users\Garrett\Desktop\Visual Studio Projects\MedicalRecords\Debug\MedicalRecords.exe
+  MedicalRecords.vcxproj -> C:\Users\Garrett\Desktop\Visual Studio Projects\MedicalRecords\Debug\MedicalRecords.pdb (Partial PDB)
